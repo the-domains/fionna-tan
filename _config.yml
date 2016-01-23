@@ -1,0 +1,28 @@
+name: Fionna Tan
+favicon: null
+layout_spectrum: 0.9658551251050085
+typography_spectrum: 0.03931264625862241
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5195558201521635
+  lightness: 0.6843230607919395
+  saturation: 0.5581788786221296
+  rhythmicContrast: 0.5673357462510467
+purpose: []
